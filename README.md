@@ -4,4 +4,4 @@
 
 # -Run 'node main.js' in your terminal window.
 
-# -If any problems arise will trying to run the program please make sure node.js is installed on your machine.
+# -If any problems arise while trying to run the program please make sure node.js is installed on your machine.
