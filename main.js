@@ -5,5 +5,5 @@ while(num.length <= 10000) {
     num.push(r);
 }
 
-// console.dir(num, {'maxArrayLength': null})
+console.dir(num, {'maxArrayLength': null})
 
